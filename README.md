@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NODE JS & NEXT JS**
 
-- 👨‍💻 All of my projects are available at [anmolgoyal01](anmolgoyal01)
+- 👨‍💻 All of my projects are available at [http://anmolgoyal.me](http://anmolgoyal.me)
 
 - 💬 Ask me about **React JS, Tailwind CSS, and other JS libraries**
 
