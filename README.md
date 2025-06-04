@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm ANMOL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **NODE JS & NEXT JS**
+- 🌱 I’m currently learning **AWS & Devops**
 
 - 👨‍💻 All of my projects are available at [http://anmolgoyal.me](http://anmolgoyal.me)
 
-- 💬 Ask me about **React JS, Tailwind CSS, and other JS libraries**
+- 💬 Ask me about **MERN Stack, C++, Java, Software Development**
 
 - 📫 How to reach me **anmolgoyaldtu@gmail.com**
 
